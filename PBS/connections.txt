@@ -37,4 +37,4 @@
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
 # Sentiero 1 (33) - Biancavilla (22)
-33,North,0,22,South,28
+33,North,0,22,South,30
